@@ -3,3 +3,7 @@ Adding a new line to see understand "git diff"
 
 
 Adding a line for version comparison
+
+also git tags...
+
+
