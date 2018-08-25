@@ -1,3 +1,6 @@
 And this is the 3'rd
 
-Making another change to this file...
+
+And yet another... to understand "git diff"
+
+ADDING THIS LINE
