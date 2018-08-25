@@ -1,1 +1,2 @@
 This is the 2'nd SW Config
+Adding a new line to see understand "git diff" options 
